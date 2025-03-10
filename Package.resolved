@@ -21,10 +21,10 @@
     {
       "identity" : "swiftdraw",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/colinc86/SwiftDraw",
+      "location" : "https://github.com/zy19890102/SwiftDraw",
       "state" : {
-        "branch" : "latexswiftui",
-        "revision" : "8789f44b5d32d75e80af635277ee637d61d5df5c"
+        "revision" : "b008e1126073e680dac5f4bc56ca135c8a87195f",
+        "version" : "1.0.0"
       }
     }
   ],
